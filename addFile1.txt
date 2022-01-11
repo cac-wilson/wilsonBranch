@@ -1,1 +1,2 @@
 我是檔案1
+Fix add file1
